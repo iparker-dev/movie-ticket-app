@@ -24,5 +24,9 @@ A simple Python program that calculates the final price of movie tickets based o
    ```bash
    python movie_ticket.py
 
+## Screenshot
+
+![Program Output](screenshots/movie-ticket-app-output.png)
+
 ## Author
 Queen
